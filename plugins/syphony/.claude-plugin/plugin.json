@@ -1,0 +1,19 @@
+{
+  "name": "syphony",
+  "displayName": "Syphony",
+  "version": "1.0.0",
+  "description": "Your Syphony notes, for your agent: read, search and write pages, fill databases, write LaTeX and HTML pages, and use meeting transcripts — in the Syphony app on this computer. You allow it once, in the browser.",
+  "author": {
+    "name": "Syphony"
+  },
+  "homepage": "https://syphony.net/agents",
+  "repository": "https://github.com/SynomyCloud/syphony-agent",
+  "keywords": [
+    "notes",
+    "syphony",
+    "mcp",
+    "latex",
+    "meetings",
+    "local-first"
+  ]
+}

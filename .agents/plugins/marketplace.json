@@ -1,0 +1,13 @@
+{
+  "name": "syphony",
+  "owner": { "name": "Syphony" },
+  "plugins": [
+    {
+      "name": "syphony",
+      "source": { "source": "local", "path": "./plugins/syphony" },
+      "description": "Read, search and write your Syphony notes, databases, LaTeX and HTML pages and meeting transcripts.",
+      "category": "productivity",
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_USE" }
+    }
+  ]
+}

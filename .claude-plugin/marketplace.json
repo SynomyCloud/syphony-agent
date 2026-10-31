@@ -1,0 +1,18 @@
+{
+  "name": "syphony",
+  "owner": { "name": "Syphony" },
+  "metadata": {
+    "description": "Syphony for your agent: the notes app on your own computer.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "syphony",
+      "source": "./plugins/syphony",
+      "description": "Read, search and write your Syphony notes, databases, LaTeX and HTML pages and meeting transcripts.",
+      "version": "1.0.0",
+      "homepage": "https://syphony.net/agents",
+      "category": "productivity"
+    }
+  ]
+}

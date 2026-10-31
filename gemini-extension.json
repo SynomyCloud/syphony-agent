@@ -1,0 +1,11 @@
+{
+  "name": "syphony",
+  "version": "1.0.0",
+  "description": "Your Syphony notes, for Gemini: pages, databases, LaTeX and HTML pages and meeting transcripts in the Syphony app on this computer.",
+  "mcpServers": {
+    "syphony": {
+      "httpUrl": "http://127.0.0.1:51740/mcp"
+    }
+  },
+  "contextFileName": "plugins/syphony/skills/syphony/SKILL.md"
+}
